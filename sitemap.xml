@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>نوادر يمنية</title>
+    <loc>https://www.yemenarchive.com/nwaderYemenia.html</loc>
+    <tag> أخرى </tag>
+    <cover>https://www.yemenarchive.com/images/book10.jpg</cover>
+    <download>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</download>
+    <goodreads>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>نقوش مسندية وتعليقات</title>
     <loc>https://www.yemenarchive.com/nqooshmosndia.html</loc>
     <tag> تاريخ اليمن </tag>
