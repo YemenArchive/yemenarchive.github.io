@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
+    <loc>https://www.yemenarchive.com/mnfaa.html</loc>
+    <tag> اﻗﺘﺼﺎﺩ </tag>
+    <cover>https://www.yemenarchive.com/images/book11.jpg</cover>
+    <download>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</download>
+    <goodreads>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>نوادر يمنية</title>
     <loc>https://www.yemenarchive.com/nwaderYemenia.html</loc>
     <tag> أخرى </tag>
