@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>حركات اﻹسلام السياسي في اليمن</title>
+    <loc>https://www.yemenarchive.com/politicalIslamYemen.html</loc>
+    <tag> فكر سياسي </tag>
+    <cover>https://www.yemenarchive.com/images/book12.jpg</cover>
+    <download>https://ia601501.us.archive.org/16/items/YemenAr_book12/radicalismYemen.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/34849913</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
     <loc>https://www.yemenarchive.com/mnfaa.html</loc>
     <tag> اﻗﺘﺼﺎﺩ </tag>
