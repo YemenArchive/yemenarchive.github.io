@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>مملكة اﻹمام يحيى - رحلة في بلاد العربية السعيدة</title>
+    <loc>https://www.yemenarchive.com/mmlkatalemamYemen.html</loc>
+    <tag> رحلات </tag>
+    <cover>https://www.yemenarchive.com/images/book13.jpg</cover>
+    <download>https://ia601507.us.archive.org/15/items/yemenar_book13/mmlkatalemamyemen.pdf</download>
+    <goodreads>http://www.goodreads.com/book/show/23446935</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>حركات اﻹسلام السياسي في اليمن</title>
     <loc>https://www.yemenarchive.com/politicalIslamYemen.html</loc>
     <tag> فكر سياسي </tag>
