@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
+    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
+    <tag> قصص </tag>
+    <cover>https://yemenarchive.com/images/book15.jpg</cover>
+    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>الهوية السياسية والحضارية لليمن في التاريخ القديم وعصر اﻹسلام</title>
     <loc>https://yemenarchive.com/hwitalyemen.html</loc>
     <tag> تاريخ </tag>
