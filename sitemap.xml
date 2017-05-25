@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
+    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+    <tag> قصص </tag>
+    <cover>https://yemenarchive.com/images/book16.jpg</cover>
+    <download>https://ia601508.us.archive.org/32/items/yemenar_book16/yemenistoriesmyths.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/35218203</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/mnfaa.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
     <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
     <tag> قصص </tag>
@@ -43,6 +56,10 @@
     <cover>https://yemenarchive.com/images/book11.jpg</cover>
     <download>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</download>
     <goodreads>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
