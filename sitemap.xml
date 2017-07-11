@@ -10,15 +10,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
-    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
-    <tag> قصص, اعمال كاملة </tag>
-    <cover>https://yemenarchive.com/images/book15.jpg</cover>
-    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
     <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
     <tag> قصص </tag>
@@ -29,6 +20,15 @@
   </url>
   <url>
     <loc>https://yemenarchive.com/mnfaa.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
+    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
+    <tag> قصص, اعمال كاملة </tag>
+    <cover>https://yemenarchive.com/images/book15.jpg</cover>
+    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
     <priority>0.8</priority>
   </url>
   <url>
