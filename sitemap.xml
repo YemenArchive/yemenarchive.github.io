@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>جوهرة التعكر</title>
+    <loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
+    <tag> رواية </tag>
+    <cover>https://yemenarchive.com/images/book17.jpg</cover>
+    <download>https://ia601503.us.archive.org/6/items/yemenar_book17/gwhrtaltakar.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/35652124</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
+    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
+    <tag> قصص, اعمال كاملة </tag>
+    <cover>https://yemenarchive.com/images/book15.jpg</cover>
+    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
     <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
     <tag> قصص </tag>
@@ -11,15 +29,6 @@
   </url>
   <url>
     <loc>https://yemenarchive.com/mnfaa.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
-    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
-    <tag> قصص </tag>
-    <cover>https://yemenarchive.com/images/book15.jpg</cover>
-    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
     <priority>0.8</priority>
   </url>
   <url>
