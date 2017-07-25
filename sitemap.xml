@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
+    <loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
+    <tag> اعمال كاملة </tag>
+    <cover>https://yemenarchive.com/images/book18.jpg</cover>
+    <download>https://ia601504.us.archive.org/9/items/yemenar_book18/abdalwali.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/35824773</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>جوهرة التعكر</title>
     <loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
     <tag> رواية </tag>
