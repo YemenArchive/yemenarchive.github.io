@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>اﻷﻋﻤﺎﻝ اﻟﺸﻌﺮﻳﺔ اﻟﻜﺎﻣﻠﺔ ﻟﻤﺤﻤﺪ ﻣﺤﻤﻮﺩ اﻟﺰﺑﻴﺮﻱ</title>
+    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
+    <tag> اﻋﻤﺎﻝ ﻛﺎﻣﻠﺔ </tag>
+    <cover>https://yemenarchive.com/images/book19.jpg</cover>
+    <download>https://ia601508.us.archive.org/33/items/yemenar_book19/mohalzobiry.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/36011466</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/mnfaa.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
     <loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
     <tag> اعمال كاملة </tag>
@@ -25,6 +42,10 @@
     <cover>https://yemenarchive.com/images/book16.jpg</cover>
     <download>https://ia601508.us.archive.org/32/items/yemenar_book16/yemenistoriesmyths.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/35218203</goodreads>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -78,6 +99,10 @@
   </url>
   <url>
     <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
