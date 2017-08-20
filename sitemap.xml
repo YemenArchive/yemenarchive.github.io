@@ -9,7 +9,7 @@
     <goodreads>https://www.goodreads.com/book/show/36011466</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
     <loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
@@ -19,7 +19,7 @@
     <goodreads>https://www.goodreads.com/book/show/35824773</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>جوهرة التعكر</title>
     <loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
@@ -29,7 +29,7 @@
     <goodreads>https://www.goodreads.com/book/show/35652124</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
     <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
@@ -39,7 +39,7 @@
     <goodreads>https://www.goodreads.com/book/show/35218203</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
     <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
@@ -49,7 +49,7 @@
     <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>الهوية السياسية والحضارية لليمن في التاريخ القديم وعصر اﻹسلام</title>
     <loc>https://yemenarchive.com/hwitalyemen.html</loc>
@@ -59,7 +59,7 @@
     <goodreads>https://www.goodreads.com/book/show/35132430</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>مملكة اﻹمام يحيى - رحلة في بلاد العربية السعيدة</title>
     <loc>https://yemenarchive.com/mmlkatalemamYemen.html</loc>
@@ -69,7 +69,7 @@
     <goodreads>http://www.goodreads.com/book/show/23446935</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>حركات اﻹسلام السياسي في اليمن</title>
     <loc>https://yemenarchive.com/politicalIslamYemen.html</loc>
@@ -79,7 +79,7 @@
     <goodreads>https://www.goodreads.com/book/show/34849913</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
     <loc>https://yemenarchive.com/mnfaa.html</loc>
@@ -89,7 +89,7 @@
     <goodreads>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>نوادر يمنية</title>
     <loc>https://yemenarchive.com/nwaderYemenia.html</loc>
@@ -99,7 +99,7 @@
     <goodreads>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>نقوش مسندية وتعليقات</title>
     <loc>https://yemenarchive.com/nqooshmosndia.html</loc>
@@ -109,7 +109,7 @@
     <goodreads>https://www.goodreads.com/book/show/32861675</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>حزب المرحومين</title>
     <loc>https://yemenarchive.com/hezbAlmrhomin.html</loc>
@@ -119,7 +119,7 @@
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>تغريبة منصور اﻷعرج</title>
     <loc>https://yemenarchive.com/tagreebaMarwanGafory.html</loc>
@@ -129,7 +129,7 @@
     <goodreads>https://www.goodreads.com/book/show/26541611</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>تعلم اللهجة المهرية</title>
     <loc>https://yemenarchive.com/speakMahree.html</loc>
@@ -139,7 +139,7 @@
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>جدائل صعدة</title>
     <loc>https://yemenarchive.com/gadailSaada.html</loc>
@@ -149,7 +149,7 @@
     <goodreads>https://www.goodreads.com/book/show/22737564</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>اليمن المطلوب تغييره</title>
     <loc>https://yemenarchive.com/yemenmatlobtageer.html</loc>
@@ -159,7 +159,7 @@
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>عرق اﻵلهة</title>
     <loc>https://yemenarchive.com/AarakAlAlihah.html</loc>
@@ -169,7 +169,7 @@
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
     <loc>https://yemenarchive.com/abdullahalbardony.html</loc>
@@ -179,7 +179,7 @@
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
   <url>
     <title>قبيلي يبحث عن حزب</title>
     <loc>https://yemenarchive.com/qabilyybhtanhizb.html</loc>
@@ -189,5 +189,5 @@
     <goodreads>https://www.goodreads.com/book/show/34723020</goodreads>
     <amazon></amazon>
     <priority>0.8</priority>
-
+  </url>
 </urlset>
