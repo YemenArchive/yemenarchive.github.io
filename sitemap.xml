@@ -7,16 +7,9 @@
     <cover>https://yemenarchive.com/images/book19.jpg</cover>
     <download>https://ia601508.us.archive.org/33/items/yemenar_book19/mohalzobiry.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/36011466</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/mnfaa.html</loc>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
     <loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
@@ -24,8 +17,9 @@
     <cover>https://yemenarchive.com/images/book18.jpg</cover>
     <download>https://ia601504.us.archive.org/9/items/yemenar_book18/abdalwali.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/35824773</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>جوهرة التعكر</title>
     <loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
@@ -33,8 +27,9 @@
     <cover>https://yemenarchive.com/images/book17.jpg</cover>
     <download>https://ia601503.us.archive.org/6/items/yemenar_book17/gwhrtaltakar.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/35652124</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
     <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
@@ -42,16 +37,9 @@
     <cover>https://yemenarchive.com/images/book16.jpg</cover>
     <download>https://ia601508.us.archive.org/32/items/yemenar_book16/yemenistoriesmyths.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/35218203</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/mnfaa.html</loc>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
     <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
@@ -59,8 +47,9 @@
     <cover>https://yemenarchive.com/images/book15.jpg</cover>
     <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>الهوية السياسية والحضارية لليمن في التاريخ القديم وعصر اﻹسلام</title>
     <loc>https://yemenarchive.com/hwitalyemen.html</loc>
@@ -68,8 +57,9 @@
     <cover>https://yemenarchive.com/images/book14.jpg</cover>
     <download>https://ia601501.us.archive.org/13/items/yemenar_book14/hwitalyemen.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/35132430</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>مملكة اﻹمام يحيى - رحلة في بلاد العربية السعيدة</title>
     <loc>https://yemenarchive.com/mmlkatalemamYemen.html</loc>
@@ -77,8 +67,9 @@
     <cover>https://yemenarchive.com/images/book13.jpg</cover>
     <download>https://ia601507.us.archive.org/15/items/yemenar_book13/mmlkatalemamyemen.pdf</download>
     <goodreads>http://www.goodreads.com/book/show/23446935</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>حركات اﻹسلام السياسي في اليمن</title>
     <loc>https://yemenarchive.com/politicalIslamYemen.html</loc>
@@ -86,8 +77,9 @@
     <cover>https://yemenarchive.com/images/book12.jpg</cover>
     <download>https://ia601501.us.archive.org/16/items/YemenAr_book12/radicalismYemen.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/34849913</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
     <loc>https://yemenarchive.com/mnfaa.html</loc>
@@ -95,16 +87,9 @@
     <cover>https://yemenarchive.com/images/book11.jpg</cover>
     <download>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</download>
     <goodreads>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <title>نوادر يمنية</title>
     <loc>https://yemenarchive.com/nwaderYemenia.html</loc>
@@ -112,8 +97,9 @@
     <cover>https://yemenarchive.com/images/book10.jpg</cover>
     <download>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</download>
     <goodreads>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>نقوش مسندية وتعليقات</title>
     <loc>https://yemenarchive.com/nqooshmosndia.html</loc>
@@ -121,8 +107,9 @@
     <cover>https://yemenarchive.com/images/book9.jpg</cover>
     <download>https://ia601502.us.archive.org/29/items/yemenar_book9/nqooshmosndia.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/32861675?ac=1&from_search=true</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>حزب المرحومين</title>
     <loc>https://yemenarchive.com/hezbAlmrhomin.html</loc>
@@ -130,8 +117,9 @@
     <cover>https://yemenarchive.com/images/book8.jpg</cover>
     <download>https://ia601502.us.archive.org/17/items/yemenar_book8/hezbAlmrhomin.pdf</download>
     <goodreads>http://www.google.com</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>تغريبة منصور اﻷعرج</title>
     <loc>https://yemenarchive.com/tagreebaMarwanGafory.html</loc>
@@ -139,8 +127,9 @@
     <cover>https://yemenarchive.com/images/book7.jpg</cover>
     <download>https://ia601503.us.archive.org/8/items/yemenar_book7/tagreebaMarwanGafory.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/26541611</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>تعلم اللهجة المهرية</title>
     <loc>https://yemenarchive.com/speakMahree.html</loc>
@@ -148,8 +137,9 @@
     <cover>https://yemenarchive.com/images/book6.jpg</cover>
     <download>https://ia601601.us.archive.org/9/items/yemenar_book6/Mahree.pdf</download>
     <goodreads>http://www.google.com</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>جدائل صعدة</title>
     <loc>https://yemenarchive.com/gadailSaada.html</loc>
@@ -157,8 +147,9 @@
     <cover>https://yemenarchive.com/images/book5.jpg</cover>
     <download>https://ia601901.us.archive.org/32/items/yemenar_book5/gadailSaada.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/22737564</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>اليمن المطلوب تغييره</title>
     <loc>https://yemenarchive.com/yemenmatlobtageer.html</loc>
@@ -166,8 +157,9 @@
     <cover>https://yemenarchive.com/images/book4.jpg</cover>
     <download>https://ia601603.us.archive.org/27/items/yemenar-book4/yemenmatlobtageer.pdf</download>
     <goodreads>http://www.google.com</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>عرق اﻵلهة</title>
     <loc>https://yemenarchive.com/AarakAlAlihah.html</loc>
@@ -175,8 +167,9 @@
     <cover>https://yemenarchive.com/images/book3.jpg</cover>
     <download>https://ia601900.us.archive.org/21/items/yemenar_book3/AarakAlAlihah.pdf</download>
     <goodreads>http://www.google.com</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
     <loc>https://yemenarchive.com/abdullahalbardony.html</loc>
@@ -184,8 +177,9 @@
     <cover>https://yemenarchive.com/images/book2.jpg</cover>
     <download>https://ia601604.us.archive.org/5/items/yemenar-book2/</download>
     <goodreads>http://www.google.com</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
+
   <url>
     <title>قبيلي يبحث عن حزب</title>
     <loc>https://yemenarchive.com/qabilyybhtanhizb.html</loc>
@@ -193,7 +187,7 @@
     <cover>https://yemenarchive.com/images/book1.jpg</cover>
     <download>https://ia601901.us.archive.org/13/items/yemenar_book1/%D9%82%D8%A8%D9%8A%D9%84%D9%8A%20%D9%8A%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%86%20%D8%AD%D8%B2%D8%A8.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/34723020</goodreads>
+    <amazon></amazon>
     <priority>0.8</priority>
-  </url>
 
 </urlset>
