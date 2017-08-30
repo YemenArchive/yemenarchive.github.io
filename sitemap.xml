@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
+    <author>عبدالله البردوني</author>
+    <pages>1752</pages>
+    <print>2002</print>
+    <loc>https://yemenarchive.com/abdullahalbardony.html</loc>
+    <tag> أدب </tag>
+    <cover>https://yemenarchive.com/images/book2.jpg</cover>
+    <download>https://ia601502.us.archive.org/3/items/Albrdony/Albrdony.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/7764177</goodreads>
+    <amazon></amazon>
+  </url>
+  <url>
     <title>الحوثيون ومستقبلهم العسكري والسياسي والتربوي</title>
     <author>أحمد محمد الدغشي</author>
     <pages>208</pages>
@@ -225,18 +237,6 @@
     <tag> أدب </tag>
     <cover>https://yemenarchive.com/images/book3.jpg</cover>
     <download>https://ia601900.us.archive.org/21/items/yemenar_book3/AarakAlAlihah.pdf</download>
-    <goodreads>http://www.google.com</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
-    <author>عبدالله البردوني</author>
-    <pages>1752</pages>
-    <print>2002</print>
-    <loc>https://yemenarchive.com/abdullahalbardony.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book2.jpg</cover>
-    <download>https://ia601604.us.archive.org/5/items/yemenar-book2/</download>
     <goodreads>http://www.google.com</goodreads>
     <amazon></amazon>
   </url>
