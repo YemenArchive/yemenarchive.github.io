@@ -8,21 +8,8 @@
   <cover>https://yemenarchive.com/theme/img/add.png</cover>
 </url>
   <url>
-    <title>اﻷعمال القصصية (1989 - 2005) لـ عبدالناصر مجلي</title>
-    <number>1</number>
-    <author>عبدالناصر مجلي</author>
-    <pages>392</pages>
-    <print>2008</print>
-    <loc>https://yemenarchive.com/shortstoriesmugali.html</loc>
-    <tag> قصص </tag>
-    <cover>https://yemenarchive.com/images/book49.jpg</cover>
-    <download>https://ia601504.us.archive.org/25/items/shortstoriesmugali/shortstoriesmugali.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/40899433</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
     <title>رجال الثلج</title>
-    <number>2</number>
+    <number>1</number>
     <author>عبدالناصر مجلي</author>
     <pages>160</pages>
     <print>2009</print>
@@ -31,6 +18,19 @@
     <cover>https://yemenarchive.com/images/book50.jpg</cover>
     <download>https://ia601508.us.archive.org/23/items/snowmenmugali/snowmenmugali.pdf</download>
     <goodreads>https://www.goodreads.com/book/show/40899491</goodreads>
+    <amazon></amazon>
+  </url>
+  <url>
+    <title>اﻷعمال القصصية (1989 - 2005) لـ عبدالناصر مجلي</title>
+    <number>2</number>
+    <author>عبدالناصر مجلي</author>
+    <pages>392</pages>
+    <print>2008</print>
+    <loc>https://yemenarchive.com/shortstoriesmugali.html</loc>
+    <tag> قصص </tag>
+    <cover>https://yemenarchive.com/images/book49.jpg</cover>
+    <download>https://ia601504.us.archive.org/25/items/shortstoriesmugali/shortstoriesmugali.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/40899433</goodreads>
     <amazon></amazon>
   </url>
   <url>
