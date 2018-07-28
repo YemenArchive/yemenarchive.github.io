@@ -1,699 +1,1028 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
 <url>
-  <title> ادعمنا واترك تقييم لـ تطبيق أرشيف اليمن في متجر جوجل بلاي | اضغط هنا
-</title>
-  <number>0</number>
-  <loc>http://bitly.com/yemenarchive</loc>
-  <cover>https://yemenarchive.com/theme/img/add.png</cover>
+<loc>https://yemenarchive.com/</loc>
+<lastmod>2018-07-28T18:46:07-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
 </url>
-  <url>
-    <title>ترنيمة الشمس</title>
-    <number>1</number>
-    <author>سليمان العيسى</author>
-    <pages>48</pages>
-    <print>1989</print>
-    <loc>https://yemenarchive.com/trneemtalshms.html</loc>
-    <tag> شعر </tag>
-    <cover>https://yemenarchive.com/images/book51.jpg</cover>
-    <download>https://ia601503.us.archive.org/8/items/trneemtalshms/trneemtalshms.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/18270263</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>رجال الثلج</title>
-    <number>2</number>
-    <author>عبدالناصر مجلي</author>
-    <pages>160</pages>
-    <print>2009</print>
-    <loc>https://yemenarchive.com/snowmenmugali.html</loc>
-    <tag> رواية </tag>
-    <cover>https://yemenarchive.com/images/book50.jpg</cover>
-    <download>https://ia601508.us.archive.org/23/items/snowmenmugali/snowmenmugali.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/40899491</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اﻷعمال القصصية (1989 - 2005) لـ عبدالناصر مجلي</title>
-    <number>3</number>
-    <author>عبدالناصر مجلي</author>
-    <pages>392</pages>
-    <print>2008</print>
-    <loc>https://yemenarchive.com/shortstoriesmugali.html</loc>
-    <tag> قصص </tag>
-    <cover>https://yemenarchive.com/images/book49.jpg</cover>
-    <download>https://ia601504.us.archive.org/25/items/shortstoriesmugali/shortstoriesmugali.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/40899433</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>مأخوذة بالنهايات</title>
-    <number>4</number>
-    <author>بلال قائد عمر</author>
-    <pages>112</pages>
-    <print>2016</print>
-    <loc>https://yemenarchive.com/makhodabelnehaiat.html</loc>
-    <tag> شعر </tag>
-    <cover>https://yemenarchive.com/images/book48.jpg</cover>
-    <download>https://ia801501.us.archive.org/30/items/makhodabelnehaiat/makhodabelnehaiat.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/40805429</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>ما العوامل التي تدفع اﻷفراد إلى رفض التطرف العنيف في اليمن؟</title>
-    <number>5</number>
-    <author>مجموعة باحثين</author>
-    <pages>74</pages>
-    <print>2017</print>
-    <loc>https://yemenarchive.com/randExtremismYemen.html</loc>
-    <tag> دراسة </tag>
-    <cover>https://yemenarchive.com/images/book47.jpg</cover>
-    <download>https://www.rand.org/content/dam/rand/pubs/research_reports/RR1700/RR1727/RAND_RR1727z1.arabic.pdf</download>
-    <goodreads>https://www.rand.org/pubs/research_reports/RR1727.html</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>فوق الجبل</title>
-    <number>6</number>
-    <author>مطهر علي اﻹرياني</author>
-    <pages>186</pages>
-    <print>1991</print>
-    <loc>https://yemenarchive.com/alaryanifoqalgbl.html</loc>
-    <tag> شعر </tag>
-    <cover>https://yemenarchive.com/images/book46.jpg</cover>
-    <download>https://ia601508.us.archive.org/24/items/foqalgbl/foqalgbl.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/40612376</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>رحلات ڤارتيما (بلاد العرب السعيدة 1503م)</title>
-    <number>7</number>
-    <author>عبد الرحمن عبد الله الشيخ (ترجمة)</author>
-    <pages>34</pages>
-    <print>1994</print>
-    <loc>https://yemenarchive.com/VarthemaYemen.html</loc>
-    <tag> رحلات </tag>
-    <cover>https://yemenarchive.com/images/book45.jpg</cover>
-    <download>https://ia601501.us.archive.org/24/items/VarthemaYemen/VarthemaYemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/18195844</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>البنية القبلية في اليمن</title>
-    <number>8</number>
-    <author>فضل علي أحمد أبو غانم</author>
-    <pages>415</pages>
-    <print>1985</print>
-    <loc>https://yemenarchive.com/tribesYemen.html</loc>
-    <tag> دراسات </tag>
-    <cover>https://yemenarchive.com/images/book44.jpg</cover>
-    <download>https://ia601505.us.archive.org/10/items/tribeYemen/tribeYemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/39835392</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الديمقراطية في اليمن</title>
-    <number>9</number>
-    <author>محمد عبد الجبار سلام</author>
-    <pages>144</pages>
-    <print>0000</print>
-    <loc>https://yemenarchive.com/democracyYemen.html</loc>
-    <tag> دراسات </tag>
-    <cover>https://yemenarchive.com/images/book43.jpg</cover>
-    <download>https://ia601501.us.archive.org/17/items/yemendemocracy/yemendemocracy.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/39696267</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>لحظة شجن وقصص أخرى</title>
-    <number>10</number>
-    <author>سلوى يحيى عبدالرحمن اﻷرياني</author>
-    <pages>100</pages>
-    <print>1992</print>
-    <loc>https://yemenarchive.com/lhdtshjn.html</loc>
-    <tag> قصص </tag>
-    <cover>https://yemenarchive.com/images/book42.jpg</cover>
-    <download>https://ia601501.us.archive.org/12/items/salwaalaryani/lhda.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/39307066</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>بلاد بلا سماء</title>
-    <number>11</number>
-    <author>وجدي اﻷهدل</author>
-    <pages>66</pages>
-    <print>2018</print>
-    <loc>https://yemenarchive.com/beladblasama.html</loc>
-    <tag> رواية </tag>
-    <cover>https://yemenarchive.com/images/book40.jpg</cover>
-    <download>https://ia601507.us.archive.org/8/items/beladbelasama/beladbelasama.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/13579207</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اليمن 2020 - سيناريوهات المستقبل</title>
-    <number>12</number>
-    <author>مجموعة باحثين</author>
-    <pages>242</pages>
-    <print>2010</print>
-    <loc>https://yemenarchive.com/yemen2020.html</loc>
-    <tag> دراسة </tag>
-    <cover>https://yemenarchive.com/images/book39.jpg</cover>
-    <download>https://ia601506.us.archive.org/14/items/yemen2020/yemen2020.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/38490571</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الببليوجرافيا العامة اليمنية</title>
-    <number>13</number>
-    <author>علي حسين عبدالله الذماري</author>
-    <pages>648</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/yemenBibliography.html</loc>
-    <tag> ببليوجرافيا </tag>
-    <cover>https://yemenarchive.com/images/book38.jpg</cover>
-    <download>https://ia601508.us.archive.org/5/items/BibliographyOfYemen/BibliographyOfYemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/38192799</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>البوابات الجنوبية لجزيرة العرب | رحلة إلى حضرموت عام 1934م</title>
-    <number>14</number>
-    <author>فريا ستارك</author>
-    <pages>314</pages>
-    <print>2013</print>
-    <loc>https://yemenarchive.com/hadrmutfreyastark.html</loc>
-    <tag> رحلات </tag>
-    <cover>https://yemenarchive.com/images/book37.jpg</cover>
-    <download>https://ia601501.us.archive.org/13/items/yemenar_book31/HadrmutFreyaStark.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/32320934</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>أمسيات الغابة</title>
-    <number>15</number>
-    <author>مجموعة مؤلفين</author>
-    <pages>52</pages>
-    <print>2018</print>
-    <loc>https://yemenarchive.com/omsiatstories.html</loc>
-    <tag> كتاب أرشيف اليمن </tag>
-    <cover>https://yemenarchive.com/images/book36.jpg</cover>
-    <download>https://ia601502.us.archive.org/0/items/Omsiat/_omsiat.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/37940961</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>شعراء من اليمن</title>
-    <number>16</number>
-    <author>عبدالعزيز المقالح</author>
-    <pages>216</pages>
-    <print>1983</print>
-    <loc>https://yemenarchive.com/poetsfromyemen.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book35.jpg</cover>
-    <download>https://ia601500.us.archive.org/24/items/yemenar_book30/poetsfromyemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/37543078</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>تنظيم القاعدة (اليمن أنموذجًا)</title>
-    <number>17</number>
-    <author>سعيد علي عبيد الجمحي</author>
-    <pages>557</pages>
-    <print>2007</print>
-    <loc>https://yemenarchive.com/aqapyemen.html</loc>
-    <tag> فكر </tag>
-    <cover>https://yemenarchive.com/images/book34.jpg</cover>
-    <download>https://ia601506.us.archive.org/6/items/yemenar_book29/aqapYemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/29087804</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اللهجة اليمانية في النكت واﻷمثال الصنعانية</title>
-    <number>18</number>
-    <author>زيد بن علي عنان</author>
-    <pages>332</pages>
-    <print>1983</print>
-    <loc>https://yemenarchive.com/lhgtsanaa.html</loc>
-    <tag> لهجات اليمن </tag>
-    <cover>https://yemenarchive.com/images/book33.jpg</cover>
-    <download>https://ia601508.us.archive.org/16/items/yemenar_book28/lhgatsanaa.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/36533866</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الثقافة والثورة في اليمن</title>
-    <number>19</number>
-    <author>عبدالله البردوني</author>
-    <pages>562</pages>
-    <print>1991</print>
-    <loc>https://yemenarchive.com/thaqafthawra.html</loc>
-    <tag> فكر </tag>
-    <cover>https://yemenarchive.com/images/book32.jpg</cover>
-    <download>https://ia601501.us.archive.org/3/items/yemenar_book27/tqafathwra.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/11342506</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الموسوعة اليمنية - المجلد الرابع</title>
-    <number>20</number>
-    <author>مجموعة باحثون</author>
-    <pages>803</pages>
-    <print>2003</print>
-    <loc>https://yemenarchive.com/yemenencyclopedia4.html</loc>
-    <tag> الموسوعة اليمنية </tag>
-    <cover>https://yemenarchive.com/images/book31.jpg</cover>
-    <download>https://ia801502.us.archive.org/27/items/yemenencyclopedia/yemenencyclopedia4.pdf</download>
-    <goodreads></goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الموسوعة اليمنية - المجلد الثالث</title>
-    <number>21</number>
-    <author>مجموعة باحثون</author>
-    <pages>875</pages>
-    <print>2003</print>
-    <loc>https://yemenarchive.com/yemenencyclopedia3.html</loc>
-    <tag> الموسوعة اليمنية </tag>
-    <cover>https://yemenarchive.com/images/book31.jpg</cover>
-    <download>https://ia801502.us.archive.org/27/items/yemenencyclopedia/yemenencyclopedia3.pdf</download>
-    <goodreads></goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الموسوعة اليمنية - المجلد الثاني</title>
-    <number>22</number>
-    <author>مجموعة باحثون</author>
-    <pages>800</pages>
-    <print>2003</print>
-    <loc>https://yemenarchive.com/yemenencyclopedia2.html</loc>
-    <tag> الموسوعة اليمنية </tag>
-    <cover>https://yemenarchive.com/images/book31.jpg</cover>
-    <download>https://ia801502.us.archive.org/27/items/yemenencyclopedia/yemenencyclopedia2.pdf</download>
-    <goodreads></goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الموسوعة اليمنية - المجلد اﻷول</title>
-    <number>23</number>
-    <author>مجموعة باحثون</author>
-    <pages>752</pages>
-    <print>2003</print>
-    <loc>https://yemenarchive.com/yemenencyclopedia1.html</loc>
-    <tag> الموسوعة اليمنية </tag>
-    <cover>https://yemenarchive.com/images/book31.jpg</cover>
-    <download>https://ia801502.us.archive.org/27/items/yemenencyclopedia/yemenencyclopedia1.pdf</download>
-    <goodreads></goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>فنون اﻷدب الشعبي في اليمن</title>
-    <number>24</number>
-    <author>عبدالله البردوني</author>
-    <pages>600</pages>
-    <print>1998</print>
-    <loc>https://yemenarchive.com/fnonalbrdony.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book30.jpg</cover>
-    <download>https://ia801508.us.archive.org/17/items/yemenar_book26/fnonalbrdony.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/11342422</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>مواقيت ﻷحزان سبأ</title>
-    <number>25</number>
-    <author>أحمد العواضي / آمنة النصيري</author>
-    <pages>181</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/mwaqeetsaba.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book29.jpg</cover>
-    <download>https://ia601508.us.archive.org/27/items/yemenar_book25/mwaqeetsaba.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/36274087</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>القات من ظهوره إلى استعماله</title>
-    <number>26</number>
-    <author>عبدالله البردوني</author>
-    <pages>9</pages>
-    <print>1991</print>
-    <loc>https://yemenarchive.com/qatalbardony.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book28.jpg</cover>
-    <download>https://ia601501.us.archive.org/1/items/yemenar_book24/qat-albrdony.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/11342506</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الدين في شبه الجزيرة العربية</title>
-    <number>27</number>
-    <author>أبكار السقاف</author>
-    <pages>423</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/afakawsa4abkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book27.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/nhoafakawsa4abkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/6541973</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الدين عند الإغريق والرومان والمسيحين</title>
-    <number>28</number>
-    <author>أبكار السقاف</author>
-    <pages>408</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/afakawsa3abkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book26.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/nhoafakawsa3abkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/6541968</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الدين في الهند والصين وإيران</title>
-    <number>29</number>
-    <author>أبكار السقاف</author>
-    <pages>211</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/afakawsa2abkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book25.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/nhoafakawsa2abkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/6266756</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الدين في مصر والعصور القديمة وعند العبريين</title>
-    <number>30</number>
-    <author>أبكار السقاف</author>
-    <pages>208</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/afakawsa1abkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book24.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/nhoafakawsa1abkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/6541966</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>إسرائيل وعقيدة الأرض الموعودة</title>
-    <number>31</number>
-    <author>أبكار السقاف</author>
-    <pages>388</pages>
-    <print>1997</print>
-    <loc>https://yemenarchive.com/israelabkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book23.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/israelabkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/7919213</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الحلاج أو صوت الضمير</title>
-    <number>32</number>
-    <author>أبكار السقاف</author>
-    <pages>252</pages>
-    <print>1995</print>
-    <loc>https://yemenarchive.com/Alhlajabkarsaqaf.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book22.jpg</cover>
-    <download>https://ia601509.us.archive.org/12/items/abkaralsaqaf/Alhlajabkarsakaf.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/15810362</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
-    <number>33</number>
-    <author>عبدالله البردوني</author>
-    <pages>1752</pages>
-    <print>2002</print>
-    <loc>https://yemenarchive.com/abdullahalbardony.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book2.jpg</cover>
-    <download>https://ia601502.us.archive.org/3/items/Albrdony/Albrdony.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/7764177</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الحوثيون ومستقبلهم العسكري والسياسي والتربوي</title>
-    <number>34</number>
-    <author>أحمد محمد الدغشي</author>
-    <pages>208</pages>
-    <print>2013</print>
-    <loc>https://yemenarchive.com/houthiideology.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book20.jpg</cover>
-    <download>https://ia601506.us.archive.org/8/items/yemenar_book20/houthi.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/22369487</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>السلفية في اليمن مدارسها الفكرية ومرجعياتها العقائدية وتحالفاتها السياسية</title>
-    <number>35</number>
-    <author>أحمد محمد الدغشي</author>
-    <pages>397</pages>
-    <print>2014</print>
-    <loc>https://yemenarchive.com/salfiideology.html</loc>
-    <tag> أبحاث </tag>
-    <cover>https://yemenarchive.com/images/book21.jpg</cover>
-    <download>https://ia601502.us.archive.org/6/items/yemenar_book21/salfya.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/23691477</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اﻷﻋﻤﺎﻝ اﻟﺸﻌﺮﻳﺔ اﻟﻜﺎﻣﻠﺔ ﻟﻤﺤﻤﺪ ﻣﺤﻤﻮﺩ اﻟﺰﺑﻴﺮﻱ</title>
-    <number>36</number>
-    <author>ﻣﺤﻤﺪ ﻣﺤﻤﻮﺩ اﻟﺰﺑﻴﺮﻱ</author>
-    <pages>583</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/mohalzobiry.html</loc>
-    <tag> اﻋﻤﺎﻝ ﻛﺎﻣﻠﺔ </tag>
-    <cover>https://yemenarchive.com/images/book19.jpg</cover>
-    <download>https://ia601508.us.archive.org/33/items/yemenar_book19/mohalzobiry.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/36011466</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
-    <number>37</number>
-    <author>محمد أحمد عبدالولي</author>
-    <pages>498</pages>
-    <print>2012</print>
-    <loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
-    <tag> اعمال كاملة </tag>
-    <cover>https://yemenarchive.com/images/book18.jpg</cover>
-    <download>https://ia601504.us.archive.org/9/items/yemenar_book18/abdalwali.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/35824773</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>جوهرة التعكر</title>
-    <number>38</number>
-    <author>همدان زيد مطيع دماج</author>
-    <pages>291</pages>
-    <print>2017</print>
-    <loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
-    <tag> رواية </tag>
-    <cover>https://yemenarchive.com/images/book17.jpg</cover>
-    <download>https://ia601503.us.archive.org/6/items/yemenar_book17/gwhrtaltakar.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/35652124</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
-    <number>39</number>
-    <author>ﻋﻠﻲ ﻣﺤﻤﺪ ﻋﺒﺪﻩ</author>
-    <pages>151</pages>
-    <print>1985</print>
-    <loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
-    <tag> قصص </tag>
-    <cover>https://yemenarchive.com/images/book16.jpg</cover>
-    <download>https://ia601508.us.archive.org/32/items/yemenar_book16/yemenistoriesmyths.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/35218203</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
-    <number>40</number>
-    <author>زيد مطيع دماج</author>
-    <pages>446</pages>
-    <print>2010</print>
-    <loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
-    <tag> قصص, اعمال كاملة </tag>
-    <cover>https://yemenarchive.com/images/book15.jpg</cover>
-    <download>https://ia601504.us.archive.org/26/items/yemenar_book15/dmag.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/27973657</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>الهوية السياسية والحضارية لليمن في التاريخ القديم وعصر اﻹسلام</title>
-    <number>41</number>
-    <author>صادق عبده علي قائد</author>
-    <pages>312</pages>
-    <print>2004</print>
-    <loc>https://yemenarchive.com/hwitalyemen.html</loc>
-    <tag> تاريخ </tag>
-    <cover>https://yemenarchive.com/images/book14.jpg</cover>
-    <download>https://ia601501.us.archive.org/13/items/yemenar_book14/hwitalyemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/35132430</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>مملكة اﻹمام يحيى - رحلة في بلاد العربية السعيدة</title>
-    <number>42</number>
-    <author>سلفاتور أبونتي</author>
-    <pages>156</pages>
-    <print>2009</print>
-    <loc>https://yemenarchive.com/mmlkatalemamYemen.html</loc>
-    <tag> رحلات </tag>
-    <cover>https://yemenarchive.com/images/book13.jpg</cover>
-    <download>https://ia601507.us.archive.org/15/items/yemenar_book13/mmlkatalemamyemen.pdf</download>
-    <goodreads>http://www.goodreads.com/book/show/23446935</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>حركات اﻹسلام السياسي في اليمن</title>
-    <number>43</number>
-    <author>عبدالملك محمد عبدالله عيسى</author>
-    <pages>352</pages>
-    <print>2012</print>
-    <loc>https://yemenarchive.com/politicalIslamYemen.html</loc>
-    <tag> فكر سياسي </tag>
-    <cover>https://yemenarchive.com/images/book12.jpg</cover>
-    <download>https://ia601501.us.archive.org/16/items/YemenAr_book12/radicalismYemen.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/34849913</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
-    <number>44</number>
-    <author>ﻭﻟﻴﺪ ﺃﺣﻤﺪ ﻳﺤﻴﻰ ﻛﻤﺎﻝ</author>
-    <pages>207</pages>
-    <print>2016</print>
-    <loc>https://yemenarchive.com/mnfaa.html</loc>
-    <tag> اﻗﺘﺼﺎﺩ </tag>
-    <cover>https://yemenarchive.com/images/book11.jpg</cover>
-    <download>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</download>
-    <goodreads>https://ia601504.us.archive.org/28/items/yemenar_book11/manfaaqswa.pdf</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>نوادر يمنية</title>
-    <number>45</number>
-    <author>أمين مانع دماج</author>
-    <pages>142</pages>
-    <print>2005</print>
-    <loc>https://yemenarchive.com/nwaderYemenia.html</loc>
-    <tag> أخرى </tag>
-    <cover>https://yemenarchive.com/images/book10.jpg</cover>
-    <download>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</download>
-    <goodreads>https://ia801508.us.archive.org/16/items/Yemenar_book10/nwader.pdf</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>نقوش مسندية وتعليقات</title>
-    <number>46</number>
-    <author>مطهر علي اﻹرياني</author>
-    <pages>532</pages>
-    <print>1990</print>
-    <loc>https://yemenarchive.com/nqooshmosndia.html</loc>
-    <tag> تاريخ اليمن </tag>
-    <cover>https://yemenarchive.com/images/book9.jpg</cover>
-    <download>https://ia601502.us.archive.org/29/items/yemenar_book9/nqooshmosndia.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/32861675</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>حزب المرحومين</title>
-    <number>47</number>
-    <author>قيس غانم نعمان</author>
-    <pages>99</pages>
-    <print>2000</print>
-    <loc>https://yemenarchive.com/hezbAlmrhomin.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book8.jpg</cover>
-    <download>https://ia601502.us.archive.org/17/items/yemenar_book8/hezbAlmrhomin.pdf</download>
-    <goodreads>http://www.google.com</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>تغريبة منصور اﻷعرج</title>
-    <number>48</number>
-    <author>مروان الغفوري</author>
-    <pages>208</pages>
-    <print>2007</print>
-    <loc>https://yemenarchive.com/tagreebaMarwanGafory.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book7.jpg</cover>
-    <download>https://ia601503.us.archive.org/8/items/yemenar_book7/tagreebaMarwanGafory.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/26541611</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>تعلم اللهجة المهرية</title>
-    <number>49</number>
-    <author>محمد بن مسلم دبلان المهري</author>
-    <pages>32</pages>
-    <print>2006</print>
-    <loc>https://yemenarchive.com/speakMahree.html</loc>
-    <tag> أخرى </tag>
-    <cover>https://yemenarchive.com/images/book6.jpg</cover>
-    <download>https://ia601601.us.archive.org/9/items/yemenar_book6/Mahree.pdf</download>
-    <goodreads>http://www.google.com</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>جدائل صعدة</title>
-    <number>50</number>
-    <author>مروان الغفوري</author>
-    <pages>199</pages>
-    <print>2014</print>
-    <loc>https://yemenarchive.com/gadailSaada.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book5.jpg</cover>
-    <download>https://ia601901.us.archive.org/32/items/yemenar_book5/gadailSaada.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/22737564</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>اليمن المطلوب تغييره</title>
-    <number>51</number>
-    <author>عبدالله الفقيه</author>
-    <pages>143</pages>
-    <print>2010</print>
-    <loc>https://yemenarchive.com/yemenmatlobtageer.html</loc>
-    <tag> علوم سياسية </tag>
-    <cover>https://yemenarchive.com/images/book4.jpg</cover>
-    <download>https://ia601603.us.archive.org/27/items/yemenar-book4/yemenmatlobtageer.pdf</download>
-    <goodreads>http://www.google.com</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>عرق اﻵلهة</title>
-    <number>52</number>
-    <author>حبيب عبدالرب سروري</author>
-    <pages>188</pages>
-    <print>2007</print>
-    <loc>https://yemenarchive.com/AarakAlAlihah.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book3.jpg</cover>
-    <download>https://ia601900.us.archive.org/21/items/yemenar_book3/AarakAlAlihah.pdf</download>
-    <goodreads>http://www.google.com</goodreads>
-    <amazon></amazon>
-  </url>
-  <url>
-    <title>قبيلي يبحث عن حزب</title>
-    <number>53</number>
-    <author>عبدالكريم الرازحي</author>
-    <pages>143</pages>
-    <print>1995</print>
-    <loc>https://yemenarchive.com/qabilyybhtanhizb.html</loc>
-    <tag> أدب </tag>
-    <cover>https://yemenarchive.com/images/book1.jpg</cover>
-    <download>https://ia601901.us.archive.org/13/items/yemenar_book1/%D9%82%D8%A8%D9%8A%D9%84%D9%8A%20%D9%8A%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%86%20%D8%AD%D8%B2%D8%A8.pdf</download>
-    <goodreads>https://www.goodreads.com/book/show/34723020</goodreads>
-    <amazon></amazon>
-  </url>
+
+<url>
+<loc>https://yemenarchive.com/archives.html</loc>
+<lastmod>2018-07-28T18:46:07-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tags.html</loc>
+<lastmod>2018-07-28T18:46:07-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/categories.html</loc>
+<lastmod>2018-07-28T18:46:07-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/about.html</loc>
+<lastmod>2016-01-01T12:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/shareyourbook.html</loc>
+<lastmod>2016-01-01T12:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/trneemtalshms.html</loc>
+<lastmod>2018-07-26T23:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/snowmenmugali.html</loc>
+<lastmod>2018-07-22T23:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/shortstoriesmugali.html</loc>
+<lastmod>2018-07-22T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/makhodabelnehaiat.html</loc>
+<lastmod>2018-07-14T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/randExtremismYemen.html</loc>
+<lastmod>2018-07-04T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/alaryanifoqalgbl.html</loc>
+<lastmod>2018-06-22T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/VarthemaYemen.html</loc>
+<lastmod>2018-04-29T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tribesYemen.html</loc>
+<lastmod>2018-04-13T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/democracyYemen.html</loc>
+<lastmod>2018-04-01T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/lhdtshjn.html</loc>
+<lastmod>2018-03-17T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/beladblasama.html</loc>
+<lastmod>2018-02-19T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemen2020.html</loc>
+<lastmod>2018-02-12T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenBibliography.html</loc>
+<lastmod>2018-01-24T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/hadrmutfreyastark.html</loc>
+<lastmod>2018-01-21T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/omsiatstories.html</loc>
+<lastmod>2018-01-15T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/poetsfromyemen.html</loc>
+<lastmod>2017-12-15T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/aqapyemen.html</loc>
+<lastmod>2017-12-03T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/lhgtsanaa.html</loc>
+<lastmod>2017-11-04T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/thaqafthawra.html</loc>
+<lastmod>2017-10-22T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenencyclopedia4.html</loc>
+<lastmod>2017-10-21T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenencyclopedia3.html</loc>
+<lastmod>2017-10-21T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenencyclopedia2.html</loc>
+<lastmod>2017-10-21T20:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenencyclopedia1.html</loc>
+<lastmod>2017-10-21T19:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/fnonalbrdony.html</loc>
+<lastmod>2017-10-08T20:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mwaqeetsaba.html</loc>
+<lastmod>2017-09-20T20:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/qatalbardony.html</loc>
+<lastmod>2017-09-17T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/afakawsa4abkarsaqaf.html</loc>
+<lastmod>2017-09-10T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/afakawsa3abkarsaqaf.html</loc>
+<lastmod>2017-09-10T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/afakawsa2abkarsaqaf.html</loc>
+<lastmod>2017-09-10T20:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/afakawsa1abkarsaqaf.html</loc>
+<lastmod>2017-09-10T19:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/israelabkarsaqaf.html</loc>
+<lastmod>2017-09-10T18:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/Alhlajabkarsaqaf.html</loc>
+<lastmod>2017-09-10T17:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/abdullahalbardony.html</loc>
+<lastmod>2017-08-30T10:02:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/houthiideology.html</loc>
+<lastmod>2017-08-24T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/salfiideology.html</loc>
+<lastmod>2017-08-24T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mohalzobiry.html</loc>
+<lastmod>2017-08-13T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mohammedabdalwali.html</loc>
+<lastmod>2017-07-25T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/gwhrtaltakar.html</loc>
+<lastmod>2017-07-11T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+<lastmod>2017-05-27T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/zaidmuteeadamag.html</loc>
+<lastmod>2017-05-20T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/hwitalyemen.html</loc>
+<lastmod>2017-05-14T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mmlkatalemamYemen.html</loc>
+<lastmod>2017-04-23T10:09:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/politicalIslamYemen.html</loc>
+<lastmod>2017-04-13T10:09:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mnfaa.html</loc>
+<lastmod>2017-04-04T16:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/nwaderYemenia.html</loc>
+<lastmod>2017-03-31T10:09:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/nqooshmosndia.html</loc>
+<lastmod>2017-03-30T10:09:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/hezbAlmrhomin.html</loc>
+<lastmod>2017-03-30T10:08:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tagreebaMarwanGafory.html</loc>
+<lastmod>2017-03-30T10:07:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/speakMahree.html</loc>
+<lastmod>2017-03-30T10:06:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/gadailSaada.html</loc>
+<lastmod>2017-03-30T10:05:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenmatlobtageer.html</loc>
+<lastmod>2017-03-30T10:04:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/AarakAlAlihah.html</loc>
+<lastmod>2017-03-30T10:03:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/qabilyybhtanhizb.html</loc>
+<lastmod>2017-03-30T10:01:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/.html</loc>
+<lastmod>2017-08-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/bblywjrfy.html</loc>
+<lastmod>2018-01-24T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/bhth.html</loc>
+<lastmod>2017-09-17T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/db.html</loc>
+<lastmod>2017-12-15T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/drs.html</loc>
+<lastmod>2018-07-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/drst.html</loc>
+<lastmod>2018-04-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/fkr.html</loc>
+<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/fkr-sysy.html</loc>
+<lastmod>2017-04-13T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/khr.html</loc>
+<lastmod>2017-03-31T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/ktb-rshyf-lymn.html</loc>
+<lastmod>2018-01-15T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/lhjt-lymn.html</loc>
+<lastmod>2017-11-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/lmwsw-lymny.html</loc>
+<lastmod>2017-10-21T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/lwm-sysy.html</loc>
+<lastmod>2017-03-30T10:04:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/ml-kml.html</loc>
+<lastmod>2017-07-25T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/qss.html</loc>
+<lastmod>2018-07-22T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/qss-ml-kml.html</loc>
+<lastmod>2017-05-20T21:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/rhlt.html</loc>
+<lastmod>2018-04-29T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/rwy.html</loc>
+<lastmod>2018-07-22T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/shr.html</loc>
+<lastmod>2018-07-26T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/trykh.html</loc>
+<lastmod>2017-05-14T21:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/category/trykh-lymn.html</loc>
+<lastmod>2017-03-30T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/.html</loc>
+<lastmod>2017-08-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/ktb-rshyf-lymn.html</loc>
+<lastmod>2018-02-19T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/hdrmwt.html</loc>
+<lastmod>2018-01-21T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/lwm-sysy.html</loc>
+<lastmod>2018-02-12T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/trfyh.html</loc>
+<lastmod>2017-03-31T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/lg.html</loc>
+<lastmod>2017-03-30T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/afq-ws.html</loc>
+<lastmod>2017-09-10T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/bblywjrfy.html</loc>
+<lastmod>2018-01-24T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/lhjt.html</loc>
+<lastmod>2017-11-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/trykh.html</loc>
+<lastmod>2018-04-29T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/ml-kml.html</loc>
+<lastmod>2017-07-25T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/db.html</loc>
+<lastmod>2017-10-08T20:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/lm-jtm.html</loc>
+<lastmod>2018-04-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/sys.html</loc>
+<lastmod>2018-04-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/dyn.html</loc>
+<lastmod>2017-09-10T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/rwy.html</loc>
+<lastmod>2018-07-22T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/msrhy.html</loc>
+<lastmod>2017-03-30T10:08:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/fkr.html</loc>
+<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/fn.html</loc>
+<lastmod>2017-10-08T20:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/qss.html</loc>
+<lastmod>2018-07-22T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/shr.html</loc>
+<lastmod>2018-07-26T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/lmwsw-lymny.html</loc>
+<lastmod>2017-10-21T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/drs.html</loc>
+<lastmod>2018-07-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/slm.html</loc>
+<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/tag/rhlt.html</loc>
+<lastmod>2018-04-29T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/.html</loc>
+<lastmod>2017-08-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bd-lrhmn-bd-llh-lshykh-trjm.html</loc>
+<lastmod>2018-04-29T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlkrym-lrzhy.html</loc>
+<lastmod>2017-03-30T10:01:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdllh-lbrdwny.html</loc>
+<lastmod>2017-10-22T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdllh-lfqyh.html</loc>
+<lastmod>2017-03-30T10:04:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlmlk-mhmd-bdllh-ys.html</loc>
+<lastmod>2017-04-13T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlnsr-mjly.html</loc>
+<lastmod>2018-07-22T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlzyz-lmqlh.html</loc>
+<lastmod>2017-12-15T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bkr-lsqf.html</loc>
+<lastmod>2017-09-10T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bll-qyd-mr.html</loc>
+<lastmod>2018-07-14T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/fdl-ly-hmd-bw-gnm.html</loc>
+<lastmod>2018-04-13T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/fry-strk.html</loc>
+<lastmod>2018-01-21T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/hbyb-bdlrb-srwry.html</loc>
+<lastmod>2017-03-30T10:03:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/hmd-lwdy-amn-lnsyry.html</loc>
+<lastmod>2017-09-20T20:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/hmd-mhmd-ldgshy.html</loc>
+<lastmod>2017-08-24T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/hmdn-zyd-mty-dmj.html</loc>
+<lastmod>2017-07-11T21:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/ly-hsyn-bdllh-ldhmry.html</loc>
+<lastmod>2018-01-24T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mhmd-bd-ljbr-slm.html</loc>
+<lastmod>2018-04-01T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mhmd-bn-mslm-dbln-lmhry.html</loc>
+<lastmod>2017-03-30T10:06:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mhmd-hmd-bdlwly.html</loc>
+<lastmod>2017-07-25T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mjmw-bhthwn.html</loc>
+<lastmod>2017-10-21T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mjmw-bhthyn.html</loc>
+<lastmod>2018-07-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mjmw-mwlfyn.html</loc>
+<lastmod>2018-01-15T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mrwn-lgfwry.html</loc>
+<lastmod>2017-03-30T10:07:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/mthr-ly-ryny.html</loc>
+<lastmod>2018-06-22T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/myn-mn-dmj.html</loc>
+<lastmod>2017-03-31T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/qys-gnm-nmn.html</loc>
+<lastmod>2017-03-30T10:08:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/sdq-bdh-ly-qyd.html</loc>
+<lastmod>2017-05-14T21:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/slftwr-bwnty.html</loc>
+<lastmod>2017-04-23T10:09:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/slw-yhy-bdlrhmn-ryny.html</loc>
+<lastmod>2018-03-17T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/slymn-lys.html</loc>
+<lastmod>2018-07-26T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/syd-ly-byd-ljmhy.html</loc>
+<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/wjdy-hdl.html</loc>
+<lastmod>2018-02-19T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/zyd-bn-ly-nn.html</loc>
+<lastmod>2017-11-04T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/zyd-mty-dmj.html</loc>
+<lastmod>2017-05-20T21:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+<lastmod>2017-05-27T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mnfaa.html</loc>
+<lastmod>2017-04-04T16:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mohalzobiry.html</loc>
+<lastmod>2017-08-13T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mnfaa.html</loc>
+<lastmod>2017-04-04T16:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemenistoriesmyths.html</loc>
+<lastmod>2017-05-27T21:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/mohalzobiry.html</loc>
+<lastmod>2017-08-13T22:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
 </urlset>
