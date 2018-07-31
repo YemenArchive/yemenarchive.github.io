@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/</loc>
-<lastmod>2018-07-29T16:23:00-00:00</lastmod>
+<lastmod>2018-07-31T21:40:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/archives.html</loc>
-<lastmod>2018-07-29T16:23:00-00:00</lastmod>
+<lastmod>2018-07-31T21:40:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/tags.html</loc>
-<lastmod>2018-07-29T16:23:00-00:00</lastmod>
+<lastmod>2018-07-31T21:40:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/categories.html</loc>
-<lastmod>2018-07-29T16:23:00-00:00</lastmod>
+<lastmod>2018-07-31T21:40:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yemenarchive.com/addbook.html</loc>
 <lastmod>2016-01-01T12:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/souqshaarat.html</loc>
+<lastmod>2018-07-31T23:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -460,7 +467,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/category/fkr.html</loc>
-<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<lastmod>2018-07-31T23:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -684,7 +691,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/tag/fkr.html</loc>
-<lastmod>2017-12-03T22:00:00+03:07</lastmod>
+<lastmod>2018-07-31T23:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -783,6 +790,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yemenarchive.com/author/bdlnsr-mjly.html</loc>
 <lastmod>2018-07-22T23:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlrhmn-lbydny.html</loc>
+<lastmod>2018-07-31T23:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
