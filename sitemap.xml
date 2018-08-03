@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/</loc>
-<lastmod>2018-08-01T23:06:36-00:00</lastmod>
+<lastmod>2018-08-03T20:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/archives.html</loc>
-<lastmod>2018-08-01T23:06:36-00:00</lastmod>
+<lastmod>2018-08-03T20:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/tags.html</loc>
-<lastmod>2018-08-01T23:06:36-00:00</lastmod>
+<lastmod>2018-08-03T20:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yemenarchive.com/categories.html</loc>
-<lastmod>2018-08-01T23:06:36-00:00</lastmod>
+<lastmod>2018-08-03T20:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yemenarchive.com/addbook.html</loc>
 <lastmod>2016-01-01T12:00:00+03:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/yemeneducationhistory.html</loc>
+<lastmod>2018-08-03T22:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -488,7 +495,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/category/drs.html</loc>
-<lastmod>2018-07-04T22:00:00+03:07</lastmod>
+<lastmod>2018-08-03T22:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -761,7 +768,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yemenarchive.com/tag/drs.html</loc>
-<lastmod>2018-07-04T22:00:00+03:07</lastmod>
+<lastmod>2018-08-03T22:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -832,6 +839,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yemenarchive.com/author/bdlrhmn-lbydny.html</loc>
 <lastmod>2018-08-01T22:00:00+03:07</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yemenarchive.com/author/bdlrhmn-syf-smyl.html</loc>
+<lastmod>2018-08-03T22:00:00+03:07</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
