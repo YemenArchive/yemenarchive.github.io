@@ -8,6 +8,7 @@ https://yemenarchive.com/tags.html
 https://yemenarchive.com/categories.html
 https://yemenarchive.com/about.html
 https://yemenarchive.com/addbook.html
+https://yemenarchive.com/zydiayemen.html
 https://yemenarchive.com/yemenimyths.html
 https://yemenarchive.com/sanaanasheedpoetry.html
 https://yemenarchive.com/saadahistory2.html
@@ -122,6 +123,7 @@ https://yemenarchive.com/tag/rhlt.html
 https://yemenarchive.com/tag/flklwr.html
 https://yemenarchive.com/author/.html
 https://yemenarchive.com/author/bd-lrhmn-bd-llh-lshykh-trjm.html
+https://yemenarchive.com/author/bdlfth-mhmd-lbtwl.html
 https://yemenarchive.com/author/bdlkrym-lrzhy.html
 https://yemenarchive.com/author/bdllh-lbrdwny.html
 https://yemenarchive.com/author/bdllh-lfqyh.html
