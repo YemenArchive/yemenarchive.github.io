@@ -8,6 +8,7 @@ https://yemenarchive.com/tags.html
 https://yemenarchive.com/categories.html
 https://yemenarchive.com/about.html
 https://yemenarchive.com/addbook.html
+https://yemenarchive.com/delalalgafr.html
 https://yemenarchive.com/zydiayemen.html
 https://yemenarchive.com/yemenimyths.html
 https://yemenarchive.com/sanaanasheedpoetry.html
@@ -117,7 +118,7 @@ https://yemenarchive.com/category/shr.html
 https://yemenarchive.com/category/trykh.html
 https://yemenarchive.com/category/trykh-lymn.html
 https://yemenarchive.com/tag/.html
-https://yemenarchive.com/tag/ktb-rshyf-lymn.html
+https://yemenarchive.com/tag/gny-lymny.html
 https://yemenarchive.com/tag/hdrmwt.html
 https://yemenarchive.com/tag/lwm-sysy.html
 https://yemenarchive.com/tag/trfyh.html
@@ -126,7 +127,7 @@ https://yemenarchive.com/tag/afq-ws.html
 https://yemenarchive.com/tag/bblywjrfy.html
 https://yemenarchive.com/tag/lhjt.html
 https://yemenarchive.com/tag/trykh.html
-https://yemenarchive.com/tag/gny-lymny.html
+https://yemenarchive.com/tag/ktb-rshyf-lymn.html
 https://yemenarchive.com/tag/ml-kml.html
 https://yemenarchive.com/tag/db.html
 https://yemenarchive.com/tag/lm-jtm.html
@@ -199,6 +200,7 @@ https://yemenarchive.com/author/slw-yhy-bdlrhmn-ryny.html
 https://yemenarchive.com/author/slymn-lys.html
 https://yemenarchive.com/author/syd-ly-byd-ljmhy.html
 https://yemenarchive.com/author/wjdy-hdl.html
+https://yemenarchive.com/author/wlyd-hmd-dmj.html
 https://yemenarchive.com/author/zyd-bn-ly-nn.html
 https://yemenarchive.com/author/zyd-mty-dmj.html
 https://yemenarchive.com/yemenistoriesmyths.html
