@@ -8,8 +8,21 @@
   <cover>https://yemenarchive.com/theme/img/musnad.png</cover>
 </url>
   <url>
-    <title>ظلال الجفر</title>
+    <title>ألعاب اﻷطفال في اليمن</title>
     <number>1</number>
+    <author>عارف الحيقي</author>
+    <pages>282</pages>
+    <print>2004</print>
+    <loc>https://yemenarchive.com/yemenchildrensgames.html</loc>
+    <tag> دراسة </tag>
+    <cover>https://yemenarchive.com/images/book85.jpg</cover>
+    <download>https://ia601507.us.archive.org/10/items/yemenchildrensgames/yemenchildrensgames.pdf</download>
+    <goodreads>https://www.goodreads.com/book/show/42378393</goodreads>
+    <amazon></amazon>
+  </url>
+  <url>
+    <title>ظلال الجفر</title>
+    <number>2</number>
     <author>وليد أحمد دماج</author>
     <pages>238</pages>
     <print>2018</print>
@@ -22,7 +35,7 @@
   </url>
   <url>
     <title>خيوط الظلام (عصر اﻹمامة الزيدية في اليمن)</title>
-    <number>2</number>
+    <number>3</number>
     <author>عبدالفتاح محمد البتول</author>
     <pages>468</pages>
     <print>2006</print>
@@ -35,7 +48,7 @@
   </url>
   <url>
     <title>أساطير من تاريخ اليمن</title>
-    <number>3</number>
+    <number>4</number>
     <author>حمزة علي لقمان</author>
     <pages>208</pages>
     <print>1988</print>
@@ -48,7 +61,7 @@
   </url>
   <url>
     <title>روائع شعر النشيد الصنعاني</title>
-    <number>4</number>
+    <number>5</number>
     <author>علي بن محسن اﻷكوع</author>
     <pages>591</pages>
     <print>2008</print>
@@ -61,7 +74,7 @@
   </url>
   <url>
     <title>تاريخ صعدة (الجزء الثاني)</title>
-    <number>5</number>
+    <number>6</number>
     <author>خالد أحمد صالح السفياني</author>
     <pages>360</pages>
     <print>2004</print>
@@ -74,7 +87,7 @@
   </url>
   <url>
     <title>تاريخ صعدة (الجزء اﻷول)</title>
-    <number>6</number>
+    <number>7</number>
     <author>خالد أحمد صالح السفياني</author>
     <pages>328</pages>
     <print>2004</print>
@@ -87,7 +100,7 @@
   </url>
   <url>
     <title>موجز تاريخ التعليم في اليمن</title>
-    <number>7</number>
+    <number>8</number>
     <author>عبدالرحمن سيف اسماعيل</author>
     <pages>366</pages>
     <print>2010</print>
@@ -100,7 +113,7 @@
   </url>
   <url>
     <title>عبدالرحمن البيضاني شاهد على العصر</title>
-    <number>8</number>
+    <number>9</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>271</pages>
     <print>2001</print>
@@ -113,7 +126,7 @@
   </url>
   <url>
     <title>أزمة الأمة العربية وثورة اليمن</title>
-    <number>9</number>
+    <number>10</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>953</pages>
     <print>1984</print>
@@ -126,7 +139,7 @@
   </url>
   <url>
     <title>مأزق اليمن في صراع الخليج</title>
-    <number>10</number>
+    <number>11</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>156</pages>
     <print>1991</print>
@@ -139,7 +152,7 @@
   </url>
   <url>
     <title>لهذا نرفض الماركسية</title>
-    <number>11</number>
+    <number>12</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>680</pages>
     <print>1973</print>
@@ -152,7 +165,7 @@
   </url>
   <url>
     <title>سوق  الشعارات في اليمن</title>
-    <number>12</number>
+    <number>13</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>418</pages>
     <print>1973</print>
@@ -165,7 +178,7 @@
   </url>
   <url>
     <title>أسرار اليمن</title>
-    <number>13</number>
+    <number>14</number>
     <author>عبدالرحمن البيضاني</author>
     <pages>240</pages>
     <print>1962</print>
@@ -178,7 +191,7 @@
   </url>
   <url>
     <title>ترنيمة الشمس</title>
-    <number>14</number>
+    <number>15</number>
     <author>سليمان العيسى</author>
     <pages>48</pages>
     <print>1989</print>
@@ -191,7 +204,7 @@
   </url>
   <url>
     <title>رجال الثلج</title>
-    <number>15</number>
+    <number>16</number>
     <author>عبدالناصر مجلي</author>
     <pages>160</pages>
     <print>2009</print>
@@ -204,7 +217,7 @@
   </url>
   <url>
     <title>اﻷعمال القصصية (1989 - 2005) لـ عبدالناصر مجلي</title>
-    <number>16</number>
+    <number>17</number>
     <author>عبدالناصر مجلي</author>
     <pages>392</pages>
     <print>2008</print>
@@ -217,7 +230,7 @@
   </url>
   <url>
     <title>مأخوذة بالنهايات</title>
-    <number>17</number>
+    <number>18</number>
     <author>بلال قائد عمر</author>
     <pages>112</pages>
     <print>2016</print>
@@ -230,7 +243,7 @@
   </url>
   <url>
     <title>ما العوامل التي تدفع اﻷفراد إلى رفض التطرف العنيف في اليمن؟</title>
-    <number>18</number>
+    <number>19</number>
     <author>مجموعة باحثين</author>
     <pages>74</pages>
     <print>2017</print>
@@ -243,7 +256,7 @@
   </url>
   <url>
     <title>فوق الجبل</title>
-    <number>19</number>
+    <number>20</number>
     <author>مطهر علي اﻹرياني</author>
     <pages>186</pages>
     <print>1991</print>
@@ -256,7 +269,7 @@
   </url>
   <url>
     <title>رحلات ڤارتيما (بلاد العرب السعيدة 1503م)</title>
-    <number>20</number>
+    <number>21</number>
     <author>عبد الرحمن عبد الله الشيخ (ترجمة)</author>
     <pages>34</pages>
     <print>1994</print>
@@ -269,7 +282,7 @@
   </url>
   <url>
     <title>البنية القبلية في اليمن</title>
-    <number>21</number>
+    <number>22</number>
     <author>فضل علي أحمد أبو غانم</author>
     <pages>415</pages>
     <print>1985</print>
@@ -282,7 +295,7 @@
   </url>
   <url>
     <title>الديمقراطية في اليمن</title>
-    <number>22</number>
+    <number>23</number>
     <author>محمد عبد الجبار سلام</author>
     <pages>144</pages>
     <print>0000</print>
@@ -295,7 +308,7 @@
   </url>
   <url>
     <title>لحظة شجن وقصص أخرى</title>
-    <number>23</number>
+    <number>24</number>
     <author>سلوى يحيى عبدالرحمن اﻷرياني</author>
     <pages>100</pages>
     <print>1992</print>
@@ -308,7 +321,7 @@
   </url>
   <url>
     <title>بلاد بلا سماء</title>
-    <number>24</number>
+    <number>25</number>
     <author>وجدي اﻷهدل</author>
     <pages>66</pages>
     <print>2018</print>
@@ -321,7 +334,7 @@
   </url>
   <url>
     <title>اليمن 2020 - سيناريوهات المستقبل</title>
-    <number>25</number>
+    <number>26</number>
     <author>مجموعة باحثين</author>
     <pages>242</pages>
     <print>2010</print>
@@ -334,7 +347,7 @@
   </url>
   <url>
     <title>الببليوجرافيا العامة اليمنية</title>
-    <number>26</number>
+    <number>27</number>
     <author>علي حسين عبدالله الذماري</author>
     <pages>648</pages>
     <print>2004</print>
@@ -347,7 +360,7 @@
   </url>
   <url>
     <title>البوابات الجنوبية لجزيرة العرب | رحلة إلى حضرموت عام 1934م</title>
-    <number>27</number>
+    <number>28</number>
     <author>فريا ستارك</author>
     <pages>314</pages>
     <print>2013</print>
@@ -360,7 +373,7 @@
   </url>
   <url>
     <title>أمسيات الغابة</title>
-    <number>28</number>
+    <number>29</number>
     <author>مجموعة مؤلفين</author>
     <pages>52</pages>
     <print>2018</print>
@@ -373,7 +386,7 @@
   </url>
   <url>
     <title>شعراء من اليمن</title>
-    <number>29</number>
+    <number>30</number>
     <author>عبدالعزيز المقالح</author>
     <pages>216</pages>
     <print>1983</print>
@@ -386,7 +399,7 @@
   </url>
   <url>
     <title>تنظيم القاعدة (اليمن أنموذجًا)</title>
-    <number>30</number>
+    <number>31</number>
     <author>سعيد علي عبيد الجمحي</author>
     <pages>557</pages>
     <print>2007</print>
@@ -399,7 +412,7 @@
   </url>
   <url>
     <title>اللهجة اليمانية في النكت واﻷمثال الصنعانية</title>
-    <number>31</number>
+    <number>32</number>
     <author>زيد بن علي عنان</author>
     <pages>332</pages>
     <print>1983</print>
@@ -412,7 +425,7 @@
   </url>
   <url>
     <title>الثقافة والثورة في اليمن</title>
-    <number>32</number>
+    <number>33</number>
     <author>عبدالله البردوني</author>
     <pages>562</pages>
     <print>1991</print>
@@ -425,7 +438,7 @@
   </url>
   <url>
     <title>الموسوعة اليمنية - المجلد الرابع</title>
-    <number>33</number>
+    <number>34</number>
     <author>مجموعة باحثون</author>
     <pages>803</pages>
     <print>2003</print>
@@ -438,7 +451,7 @@
   </url>
   <url>
     <title>الموسوعة اليمنية - المجلد الثالث</title>
-    <number>34</number>
+    <number>35</number>
     <author>مجموعة باحثون</author>
     <pages>875</pages>
     <print>2003</print>
@@ -451,7 +464,7 @@
   </url>
   <url>
     <title>الموسوعة اليمنية - المجلد الثاني</title>
-    <number>35</number>
+    <number>36</number>
     <author>مجموعة باحثون</author>
     <pages>800</pages>
     <print>2003</print>
@@ -464,7 +477,7 @@
   </url>
   <url>
     <title>الموسوعة اليمنية - المجلد اﻷول</title>
-    <number>36</number>
+    <number>37</number>
     <author>مجموعة باحثون</author>
     <pages>752</pages>
     <print>2003</print>
@@ -477,7 +490,7 @@
   </url>
   <url>
     <title>فنون اﻷدب الشعبي في اليمن</title>
-    <number>37</number>
+    <number>38</number>
     <author>عبدالله البردوني</author>
     <pages>600</pages>
     <print>1998</print>
@@ -490,7 +503,7 @@
   </url>
   <url>
     <title>كنت طبيبة في اليمن</title>
-    <number>38</number>
+    <number>39</number>
     <author>كلودي فايان. تعريب وتقديم: محسن أحمد العيني</author>
     <pages>150</pages>
     <print>1951</print>
@@ -503,7 +516,7 @@
   </url>
   <url>
     <title>الجمهوريه بين السلطنة والقبيلة في اليمن الشمالي</title>
-    <number>39</number>
+    <number>40</number>
     <author>أبو بكر السقاف</author>
     <pages>205</pages>
     <print>1988</print>
@@ -516,7 +529,7 @@
   </url>
   <url>
     <title>الرهينة</title>
-    <number>40</number>
+    <number>41</number>
     <author>زيد مطيع دماج</author>
     <pages>155</pages>
     <print>1984</print>
@@ -529,7 +542,7 @@
   </url>
   <url>
     <title>الطريق إلى الحرية (مذكرات)</title>
-    <number>41</number>
+    <number>42</number>
     <author>العزي صالح السنيدار</author>
     <pages>154</pages>
     <print>2004</print>
@@ -542,7 +555,7 @@
   </url>
   <url>
     <title>التطور السياسي للجمهورية العربية اليمنية (من 1962، حتى 1985)</title>
-    <number>42</number>
+    <number>43</number>
     <author>جولوفكايا. ايلينا. ك ترجمة: محمد علي البحر</author>
     <pages>400</pages>
     <print>1994</print>
@@ -555,7 +568,7 @@
   </url>
   <url>
     <title>اليمن الجمهوري</title>
-    <number>43</number>
+    <number>44</number>
     <author>عبدالله البردوني</author>
     <pages>524</pages>
     <print>1997</print>
@@ -568,7 +581,7 @@
   </url>
   <url>
     <title>اليمن الجنوبي (الحياة السياسية من الاستعمار إلى الوحدة)</title>
-    <number>44</number>
+    <number>45</number>
     <author>علي الصراف</author>
     <pages>448</pages>
     <print>1992</print>
@@ -581,7 +594,7 @@
   </url>
   <url>
     <title>اليمن الجنوبي (سياسيًا واقتصاديًا واجتماعيًا منذ 1937م وحتى قيام جمهورية اليمن الديمقراطية)</title>
-    <number>45</number>
+    <number>46</number>
     <author>محمد عمر الحبشي</author>
     <pages>604</pages>
     <print>1968</print>
@@ -594,7 +607,7 @@
   </url>
   <url>
     <title>اليمن الثورة والحرب حتى عام 1970</title>
-    <number>46</number>
+    <number>47</number>
     <author>إدجار أوبلانس / ترجمة عبدالخالق ﻻشيد</author>
     <pages>356</pages>
     <print>1990</print>
@@ -607,7 +620,7 @@
   </url>
   <url>
     <title>اليمن تحت حكم الإمام أحمد (1948 – 1962)</title>
-    <number>47</number>
+    <number>48</number>
     <author>أحمد عبيد بن دغر</author>
     <pages>591</pages>
     <print>2005</print>
@@ -620,7 +633,7 @@
   </url>
   <url>
     <title>مذكرات أحمد محمد نعمان</title>
-    <number>48</number>
+    <number>49</number>
     <author>علي محمد زيد</author>
     <pages>259</pages>
     <print>2004</print>
@@ -633,7 +646,7 @@
   </url>
   <url>
     <title>مذكرات الرئيس القاضي عبد الرحمن بن يحي الإرياني (الجزء الثاني)</title>
-    <number>49</number>
+    <number>50</number>
     <author>عبد الرحمن بن يحي الإرياني</author>
     <pages>733</pages>
     <print>2013</print>
@@ -646,7 +659,7 @@
   </url>
   <url>
     <title>مذكرات الرئيس القاضي عبد الرحمن بن يحي الإرياني (الجزء اﻷول)</title>
-    <number>50</number>
+    <number>51</number>
     <author>عبد الرحمن بن يحي الإرياني</author>
     <pages>591</pages>
     <print>2013</print>
@@ -659,7 +672,7 @@
   </url>
   <url>
     <title>مغامرات مصري في مجاهل اليمن</title>
-    <number>51</number>
+    <number>52</number>
     <author>مصطفى الشكعة</author>
     <pages>197</pages>
     <print>1985</print>
@@ -672,7 +685,7 @@
   </url>
   <url>
     <title>مأساة واق الواق</title>
-    <number>52</number>
+    <number>53</number>
     <author>محمد محمود الزبيري</author>
     <pages>324</pages>
     <print>2015</print>
@@ -685,7 +698,7 @@
   </url>
   <url>
     <title>نظرة في بعض قضايا الثورة اليمنية</title>
-    <number>53</number>
+    <number>54</number>
     <author>محمد علي الشهاري</author>
     <pages>482</pages>
     <print>1990</print>
@@ -698,7 +711,7 @@
   </url>
   <url>
     <title>ثورة اليمن الدستورية</title>
-    <number>54</number>
+    <number>55</number>
     <author>مجموعة من ضباط ثورة 1984</author>
     <pages>261</pages>
     <print>1985</print>
@@ -711,7 +724,7 @@
   </url>
   <url>
     <title>تاريخ اليمن المعاصر</title>
-    <number>55</number>
+    <number>56</number>
     <author>مجموعة من المؤلفون السوفيت. الترجمة: محمد علي البحر</author>
     <pages>360</pages>
     <print>1990</print>
@@ -724,7 +737,7 @@
   </url>
   <url>
     <title>طائر الخراب</title>
-    <number>56</number>
+    <number>57</number>
     <author>حبيب عبدالرب سروري</author>
     <pages>247</pages>
     <print>2005</print>
@@ -737,7 +750,7 @@
   </url>
   <url>
     <title>أيام وذكريات</title>
-    <number>57</number>
+    <number>58</number>
     <author>حسن محمد مكي</author>
     <pages>140</pages>
     <print>2008</print>
@@ -750,7 +763,7 @@
   </url>
   <url>
     <title>يوم ولد اليمن مجده (ذكريات عن ثورة 26 سبتمبر 1962)</title>
-    <number>58</number>
+    <number>59</number>
     <author>عبد الغني مطهر</author>
     <pages>248</pages>
     <print>1985</print>
@@ -763,7 +776,7 @@
   </url>
   <url>
     <title>مواقيت ﻷحزان سبأ</title>
-    <number>59</number>
+    <number>60</number>
     <author>أحمد العواضي / آمنة النصيري</author>
     <pages>181</pages>
     <print>2004</print>
@@ -776,7 +789,7 @@
   </url>
   <url>
     <title>القات من ظهوره إلى استعماله</title>
-    <number>60</number>
+    <number>61</number>
     <author>عبدالله البردوني</author>
     <pages>9</pages>
     <print>1991</print>
@@ -789,7 +802,7 @@
   </url>
   <url>
     <title>الدين في شبه الجزيرة العربية</title>
-    <number>61</number>
+    <number>62</number>
     <author>أبكار السقاف</author>
     <pages>423</pages>
     <print>2004</print>
@@ -802,7 +815,7 @@
   </url>
   <url>
     <title>الدين عند الإغريق والرومان والمسيحين</title>
-    <number>62</number>
+    <number>63</number>
     <author>أبكار السقاف</author>
     <pages>408</pages>
     <print>2004</print>
@@ -815,7 +828,7 @@
   </url>
   <url>
     <title>الدين في الهند والصين وإيران</title>
-    <number>63</number>
+    <number>64</number>
     <author>أبكار السقاف</author>
     <pages>211</pages>
     <print>2004</print>
@@ -828,7 +841,7 @@
   </url>
   <url>
     <title>الدين في مصر والعصور القديمة وعند العبريين</title>
-    <number>64</number>
+    <number>65</number>
     <author>أبكار السقاف</author>
     <pages>208</pages>
     <print>2004</print>
@@ -841,7 +854,7 @@
   </url>
   <url>
     <title>إسرائيل وعقيدة الأرض الموعودة</title>
-    <number>65</number>
+    <number>66</number>
     <author>أبكار السقاف</author>
     <pages>388</pages>
     <print>1997</print>
@@ -854,7 +867,7 @@
   </url>
   <url>
     <title>الحلاج أو صوت الضمير</title>
-    <number>66</number>
+    <number>67</number>
     <author>أبكار السقاف</author>
     <pages>252</pages>
     <print>1995</print>
@@ -867,7 +880,7 @@
   </url>
   <url>
     <title>عبدالله البردوني اﻷعمال الشعرية الكاملة</title>
-    <number>67</number>
+    <number>68</number>
     <author>عبدالله البردوني</author>
     <pages>1752</pages>
     <print>2002</print>
@@ -880,7 +893,7 @@
   </url>
   <url>
     <title>الحوثيون ومستقبلهم العسكري والسياسي والتربوي</title>
-    <number>68</number>
+    <number>69</number>
     <author>أحمد محمد الدغشي</author>
     <pages>208</pages>
     <print>2013</print>
@@ -893,7 +906,7 @@
   </url>
   <url>
     <title>السلفية في اليمن مدارسها الفكرية ومرجعياتها العقائدية وتحالفاتها السياسية</title>
-    <number>69</number>
+    <number>70</number>
     <author>أحمد محمد الدغشي</author>
     <pages>397</pages>
     <print>2014</print>
@@ -906,7 +919,7 @@
   </url>
   <url>
     <title>اﻷﻋﻤﺎﻝ اﻟﺸﻌﺮﻳﺔ اﻟﻜﺎﻣﻠﺔ ﻟﻤﺤﻤﺪ ﻣﺤﻤﻮﺩ اﻟﺰﺑﻴﺮﻱ</title>
-    <number>70</number>
+    <number>71</number>
     <author>ﻣﺤﻤﺪ ﻣﺤﻤﻮﺩ اﻟﺰﺑﻴﺮﻱ</author>
     <pages>583</pages>
     <print>2004</print>
@@ -919,7 +932,7 @@
   </url>
   <url>
     <title>اﻷعمال الكاملة لمحمد عبدالولي</title>
-    <number>71</number>
+    <number>72</number>
     <author>محمد أحمد عبدالولي</author>
     <pages>498</pages>
     <print>2012</print>
@@ -932,7 +945,7 @@
   </url>
   <url>
     <title>جوهرة التعكر</title>
-    <number>72</number>
+    <number>73</number>
     <author>همدان زيد مطيع دماج</author>
     <pages>291</pages>
     <print>2017</print>
@@ -945,7 +958,7 @@
   </url>
   <url>
     <title>ﺣﻜﺎﻳﺎﺕ ﻭﺃﺳﺎﻃﻴﺮ ﻳﻤﻨﻴﺔ</title>
-    <number>73</number>
+    <number>74</number>
     <author>ﻋﻠﻲ ﻣﺤﻤﺪ ﻋﺒﺪﻩ</author>
     <pages>151</pages>
     <print>1985</print>
@@ -958,7 +971,7 @@
   </url>
   <url>
     <title>اﻷعمال القصصية الكاملة لزيد مطيع دماج</title>
-    <number>74</number>
+    <number>75</number>
     <author>زيد مطيع دماج</author>
     <pages>446</pages>
     <print>2010</print>
@@ -971,7 +984,7 @@
   </url>
   <url>
     <title>الهوية السياسية والحضارية لليمن في التاريخ القديم وعصر اﻹسلام</title>
-    <number>75</number>
+    <number>76</number>
     <author>صادق عبده علي قائد</author>
     <pages>312</pages>
     <print>2004</print>
@@ -984,7 +997,7 @@
   </url>
   <url>
     <title>مملكة اﻹمام يحيى - رحلة في بلاد العربية السعيدة</title>
-    <number>76</number>
+    <number>77</number>
     <author>سلفاتور أبونتي</author>
     <pages>156</pages>
     <print>2009</print>
@@ -997,7 +1010,7 @@
   </url>
   <url>
     <title>حركات اﻹسلام السياسي في اليمن</title>
-    <number>77</number>
+    <number>78</number>
     <author>عبدالملك محمد عبدالله عيسى</author>
     <pages>352</pages>
     <print>2012</print>
@@ -1010,7 +1023,7 @@
   </url>
   <url>
     <title>ﻧﻈﺎﻡ اﻟﻤﻨﻔﻌﺔ اﻟﻘﺼﻮﻯ</title>
-    <number>78</number>
+    <number>79</number>
     <author>ﻭﻟﻴﺪ ﺃﺣﻤﺪ ﻳﺤﻴﻰ ﻛﻤﺎﻝ</author>
     <pages>207</pages>
     <print>2016</print>
@@ -1023,7 +1036,7 @@
   </url>
   <url>
     <title>نوادر يمنية</title>
-    <number>79</number>
+    <number>80</number>
     <author>أمين مانع دماج</author>
     <pages>142</pages>
     <print>2005</print>
@@ -1036,7 +1049,7 @@
   </url>
   <url>
     <title>نقوش مسندية وتعليقات</title>
-    <number>80</number>
+    <number>81</number>
     <author>مطهر علي اﻹرياني</author>
     <pages>532</pages>
     <print>1990</print>
@@ -1049,7 +1062,7 @@
   </url>
   <url>
     <title>حزب المرحومين</title>
-    <number>81</number>
+    <number>82</number>
     <author>قيس غانم نعمان</author>
     <pages>99</pages>
     <print>2000</print>
@@ -1062,7 +1075,7 @@
   </url>
   <url>
     <title>تغريبة منصور اﻷعرج</title>
-    <number>82</number>
+    <number>83</number>
     <author>مروان الغفوري</author>
     <pages>208</pages>
     <print>2007</print>
@@ -1075,7 +1088,7 @@
   </url>
   <url>
     <title>تعلم اللهجة المهرية</title>
-    <number>83</number>
+    <number>84</number>
     <author>محمد بن مسلم دبلان المهري</author>
     <pages>32</pages>
     <print>2006</print>
@@ -1088,7 +1101,7 @@
   </url>
   <url>
     <title>جدائل صعدة</title>
-    <number>84</number>
+    <number>85</number>
     <author>مروان الغفوري</author>
     <pages>199</pages>
     <print>2014</print>
@@ -1101,7 +1114,7 @@
   </url>
   <url>
     <title>اليمن المطلوب تغييره</title>
-    <number>85</number>
+    <number>86</number>
     <author>عبدالله الفقيه</author>
     <pages>143</pages>
     <print>2010</print>
@@ -1114,7 +1127,7 @@
   </url>
   <url>
     <title>عرق اﻵلهة</title>
-    <number>86</number>
+    <number>87</number>
     <author>حبيب عبدالرب سروري</author>
     <pages>188</pages>
     <print>2007</print>
@@ -1127,7 +1140,7 @@
   </url>
   <url>
     <title>قبيلي يبحث عن حزب</title>
-    <number>87</number>
+    <number>88</number>
     <author>عبدالكريم الرازحي</author>
     <pages>143</pages>
     <print>1995</print>
